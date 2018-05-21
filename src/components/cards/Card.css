@@ -1,0 +1,7 @@
+.cardlist {
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    margin: 3% 4.5% 4% 3%;
+    display: inline-flex;
+ }
